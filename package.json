@@ -1,0 +1,19 @@
+{
+  "name": "@nikita-erema/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "https://github.com/Nikita-Erema/ajs.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita-Erema/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita-Erema/ajs/issues"
+  },
+  "homepage": "https://github.com/Nikita-Erema/ajs#readme",
+  "description": ""
+}
