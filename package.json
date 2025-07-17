@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "build": "webpack --mode production",
     "test": "https://github.com/Nikita-Erema/ajs.git"
   },
   "repository": {
@@ -27,5 +26,8 @@
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "build": "webpack --mode production"
   }
 }
